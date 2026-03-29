@@ -15,7 +15,7 @@ Atualmente estou no 7 período do curso de engenharia de software e sinto que o 
 - [Licença](#-licença)
 
 ## ✅ Progresso
-- [ ] Capítulo 1 — Introdução a algoritmos
+- [x] Capítulo 1 — Introdução a algoritmos
 - [ ] Capítulo 2 — Ordenação por seleção
 - [ ] Capítulo 3 — Recursão
 - [ ] Capítulo 4 — Quicksort
